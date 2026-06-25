@@ -44,10 +44,9 @@ Headless monolith with a FastAPI backend and Vanilla JS frontend. Tracks income,
 
 ## Skills
 
-**Languages** — TypeScript · Python · JavaScript · Java
+**Languages** — C++, Python, HTML, CSS, JavaScript, TypeScript, SQL
 
-**Backend** — NestJS · FastAPI · REST APIs · JWT · WebSocket · Kafka · Celery
+**Frameworks and Tools** — FastAPI, NestJS, Node.js, ReactJS,  Next.js, Docker, Kafka, Celery, Git, Linux, VPS, Coolify, Cloudinary
 
-**Databases** — MySQL · MongoDB · Redis
+**Databases** — MySQL, MongoDB
 
-**Infrastructure** — Docker · Linux · VPS · Coolify · Cloudinary
