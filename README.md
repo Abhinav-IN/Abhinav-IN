@@ -24,7 +24,6 @@ Polyrepo microservice architecture across 8 repositories. Users match based on m
 **NestJS · Kafka · MySQL (TiDB) · MongoDB Atlas · Cloudinary · Spotify API · React**
 
 [![Architecture & README](https://img.shields.io/badge/Architecture%20%26%20README-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinav-IN/soul-sync)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square)](https://soulsync.manavkashyap.com/demo)
 
 ---
 
@@ -38,7 +37,6 @@ Headless monolith with a FastAPI backend and Vanilla JS frontend. Tracks income,
 **FastAPI · MySQL (TiDB) · Celery · Redis · Vanilla JS**
 
 [![README](https://img.shields.io/badge/README-16A34A?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinav-IN/fi-track)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-16A34A?style=flat-square)](http://fi-track.manavkashyap.com)
 
 ---
 
