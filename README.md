@@ -28,7 +28,7 @@ Polyrepo microservice architecture across 8 repositories. Users match based on m
 
 ---
 
-### [Fi-Track](https://github.com/Abhinav-IN/finance_tracker) — Personal Finance Tracker
+### [Fi-Track](https://github.com/Abhinav-IN/fi-track) — Personal Finance Tracker
 Headless monolith with a FastAPI backend and Vanilla JS frontend. Tracks income, expenses, subscriptions, budgets, and investments — with a graphical dashboard and JWT authentication. Background email delivery via Celery workers keeps the API non-blocking.
 
 - Auto-billing on subscriptions rolls charges into expenses automatically
@@ -37,7 +37,7 @@ Headless monolith with a FastAPI backend and Vanilla JS frontend. Tracks income,
 
 **FastAPI · MySQL (TiDB) · Celery · Redis · Vanilla JS**
 
-[![README](https://img.shields.io/badge/README-16A34A?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinav-IN/finance_tracker)
+[![README](https://img.shields.io/badge/README-16A34A?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhinav-IN/fi-track)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-16A34A?style=flat-square)](http://fi-track.manavkashyap.com)
 
 ---
